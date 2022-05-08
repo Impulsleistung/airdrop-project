@@ -1,0 +1,23 @@
+{
+  "name": "airdrop-project",
+  "version": "1.0.0",
+  "description": "SOLANA Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Impulsleistung/airdrop-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Impulsleistung/airdrop-project/issues"
+  },
+  "homepage": "https://github.com/Impulsleistung/airdrop-project#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.41.4"
+  }
+}
